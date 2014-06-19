@@ -9,8 +9,7 @@ All icons list below are located in `./icons` folder.
 
 #### Num 1: iOS style button (06/19/2014)
 
-![ios-style-button](./icons/ios-style-button/ios-style-button.png)
-
+->![ios-style-button](./icons/ios-style-button/ios-style-button@2x.png)<-
 
 License:
 -------------------
