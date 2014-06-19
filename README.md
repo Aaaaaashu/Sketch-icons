@@ -3,8 +3,6 @@ Using Sketch make a icon with joy of creation.
 
 This project contains every icon's source file, output file. all icons under MIT license, easy to reuse or redesign for your own purpose.
 
-============
-
 ## Icons
 
 All icons list below are located in `./icons` folder.
