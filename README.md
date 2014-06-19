@@ -7,9 +7,13 @@ This project contains every icon's source file, output file. all icons under MIT
 
 All icons list below are located in `./icons` folder.
 
+#### Num 2: iOS style button (06/20/2014)
+
+![ios-style-button](./icons/flat-mail/mail-banner.png)
+
 #### Num 1: iOS style button (06/19/2014)
 
-![ios-style-button](./icons/ios-style-button/button.png)
+![ios-style-button](./icons/ios-style-button/button-banner.png)
 
 License:
 -------------------
