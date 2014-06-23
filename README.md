@@ -1,11 +1,15 @@
 #Sketch icons
 Using Sketch make a icon with joy of creation. 
 
-This project contains every icon's source file, output file. all icons under MIT license, easy to reuse or redesign for your own purpose.
+This project inspired by [dailyicons](https://github.com/turingou/dailyicons), which contains every icon's source file, output file. all icons under MIT license, easy to reuse or redesign for your own purpose.
 
 ## Icons
 
 All icons list below are located in `./icons` folder.
+
+#### Num 3: Nautical Themed Alphabet (06/23/2014)
+
+![ios-style-button](./icons/nautical-themed-alphabet/bad-nautical-themed-alphabet.png)
 
 #### Num 2: Flat Mail (06/20/2014)
 
