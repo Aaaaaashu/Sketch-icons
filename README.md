@@ -7,23 +7,23 @@ This project inspired by [dailyicons](https://github.com/turingou/dailyicons), w
 
 All icons list below are located in `./icons` folder.
 
-#### Num 3: Nautical Themed Alphabet (06/23/2014)
+#### No.3 Calendar (10/26/2014)
 
-![ios-style-button](./icons/nautical-themed-alphabet/bad-nautical-themed-alphabet.png)
+![Calendar](./icons/calendar/Calendar.png)
 
-#### Num 2: Flat Mail (06/20/2014)
+#### No.2 Flat Mail (06/20/2014)
 
-![ios-style-button](./icons/flat-mail/mail-banner.png)
+![Flat Mail](./icons/flat-mail/mail-banner.png)
 
-#### Num 1: iOS style button (06/19/2014)
+#### No.1 iOS style button (06/19/2014)
 
-![ios-style-button](./icons/ios-style-button/button-banner.png)
+![iOS style button](./icons/ios-style-button/button-banner.png)
 
 License:
 -------------------
 (The MIT License)
 
-Copyright (c) 2014 阿树  <OrangeHat.rb@gmail.com>
+Copyright (c) 2014 [阿树](http://aaaaaashu.me/) 
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
