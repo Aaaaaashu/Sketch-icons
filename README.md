@@ -6,6 +6,9 @@ This project inspired by [dailyicons](https://github.com/turingou/dailyicons), w
 ## Icons
 
 All icons list below are located in `./icons` folder.
+#### No.4 Falsh (11/01/2014)
+
+![Flash](./icons/flash/Flash.png)
 
 #### No.3 Calendar (10/26/2014)
 
