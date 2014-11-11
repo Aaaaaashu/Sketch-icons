@@ -6,6 +6,10 @@ This project inspired by [dailyicons](https://github.com/turingou/dailyicons), w
 ## Icons
 
 All icons list below are located in `./icons` folder.
+#### No.6 Inbox (11/11/2014)
+
+![Finder](./icons/inbox/Inbox.png)
+
 #### No.5 Finder (11/02/2014)
 
 ![Finder](./icons/finder/Finder.png)
