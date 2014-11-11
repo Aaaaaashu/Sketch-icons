@@ -8,19 +8,19 @@ This project inspired by [dailyicons](https://github.com/turingou/dailyicons), w
 All icons list below are located in `./icons` folder.
 #### No.6 Inbox (11/11/2014)
 
-![Finder](./icons/inbox/Inbox.png)
+![Finder](./icons/inbox/inbox.png)
 
 #### No.5 Finder (11/02/2014)
 
-![Finder](./icons/finder/Finder.png)
+![Finder](./icons/finder/finder.png)
 
 #### No.4 Falsh (11/01/2014)
 
-![Flash](./icons/flash/Flash.png)
+![Flash](./icons/flash/flash.png)
 
 #### No.3 Calendar (10/26/2014)
 
-![Calendar](./icons/calendar/Calendar.png)
+![Calendar](./icons/calendar/calendar.png)
 
 #### No.2 Flat Mail (06/20/2014)
 
