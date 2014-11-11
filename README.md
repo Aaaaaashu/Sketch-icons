@@ -12,15 +12,15 @@ All icons list below are located in `./icons` folder.
 
 #### No.5 Finder (11/02/2014)
 
-![Finder](./icons/finder/finder.png)
+![Finder](./icons/finder/Finder.png)
 
 #### No.4 Falsh (11/01/2014)
 
-![Flash](./icons/flash/flash.png)
+![Flash](./icons/flash/Flash.png)
 
 #### No.3 Calendar (10/26/2014)
 
-![Calendar](./icons/calendar/calendar.png)
+![Calendar](./icons/calendar/Calendar.png)
 
 #### No.2 Flat Mail (06/20/2014)
 
