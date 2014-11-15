@@ -6,6 +6,10 @@ This project inspired by [dailyicons](https://github.com/turingou/dailyicons), w
 ## Icons
 
 All icons list below are located in `./icons` folder.
+#### No.7 MPlayerX (11/15/2014)
+
+![Finder](./icons/mplayerx/mplayerx.png)
+
 #### No.6 Inbox (11/11/2014)
 
 ![Finder](./icons/inbox/inbox.png)
