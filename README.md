@@ -6,32 +6,28 @@ This project inspired by [dailyicons](https://github.com/turingou/dailyicons), w
 ## Icons
 
 All icons list below are located in `./icons` folder.
-#### No.7 MPlayerX (11/15/2014)
+#### No.7 Dock (11/21/2014)
+![Dock](./icons/dock/Dock.png)
 
-![Finder](./icons/mplayerx/mplayerx.png)
+#### No.7 MPlayerX (11/15/2014)
+![MPlayerX](./icons/mplayerx/mplayerx.png)
 
 #### No.6 Inbox (11/11/2014)
-
-![Finder](./icons/inbox/inbox.png)
+![Inbox](./icons/inbox/inbox.png)
 
 #### No.5 Finder (11/02/2014)
-
 ![Finder](./icons/finder/Finder.png)
 
 #### No.4 Falsh (11/01/2014)
-
 ![Flash](./icons/flash/Flash.png)
 
 #### No.3 Calendar (10/26/2014)
-
 ![Calendar](./icons/calendar/Calendar.png)
 
 #### No.2 Flat Mail (06/20/2014)
-
 ![Flat Mail](./icons/flat-mail/mail-banner.png)
 
 #### No.1 iOS style button (06/19/2014)
-
 ![iOS style button](./icons/ios-style-button/button-banner.png)
 
 License:
